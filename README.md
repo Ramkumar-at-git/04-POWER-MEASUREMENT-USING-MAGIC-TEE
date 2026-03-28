@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26320853/README.md)
+
 # 04-POWER-MEASUREMENT-USING-MAGIC-TEE
 
 **A.Aim:**
